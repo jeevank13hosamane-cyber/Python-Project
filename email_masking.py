@@ -1,3 +1,4 @@
+#in this the email address will be hidden
 def mask_email(email):
     at=email.find("@")
     name=email[0:at]
